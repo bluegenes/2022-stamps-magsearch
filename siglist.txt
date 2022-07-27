@@ -1,0 +1,4 @@
+C3_T13_0_SPAdes.Assembly.sig
+FV_DSM_15829_genome.sig
+FV_PB189-T1-4_genome.sig
+S26_PROKKA_03102021.sig
